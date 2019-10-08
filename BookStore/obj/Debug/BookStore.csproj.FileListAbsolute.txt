@@ -1,0 +1,155 @@
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\BLL.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\BLL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\DAL.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\System.Data.SQLite.xml
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.KullanıcıArayüz.resources
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\BLL.dll
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.KullanıcıArayüz.resources
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\BLL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.KullanıcıArayüz.resources
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.mainPageUserControl.resources
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\BLL.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\BLL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\DAL.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\System.Data.SQLite.xml
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.KullanıcıArayüz.resources
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BookStore\obj\Debug\BookStore.MainPage.resources
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\BLL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.KullanıcıArayüz.resources
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.MainPage.resources
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\BLL.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.KullanıcıArayüz.resources
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.MainPage.resources
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BookStore\obj\Debug\BookStore.Kullanıcı.resources
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.KullanıcıUserC.resources
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.MainPage.resources
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.KullanıcıUserC.resources
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BookStore\obj\Debug\BookStore.MainPage.resources
+E:\OOP\BookStore\BookStore\bin\Debug\BookStore.exe.config
+E:\OOP\BookStore\BookStore\bin\Debug\BookStore.exe
+E:\OOP\BookStore\BookStore\bin\Debug\BookStore.pdb
+E:\OOP\BookStore\BookStore\bin\Debug\BLL.dll
+E:\OOP\BookStore\BookStore\bin\Debug\DAL.dll
+E:\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll
+E:\OOP\BookStore\BookStore\bin\Debug\BLL.pdb
+E:\OOP\BookStore\BookStore\bin\Debug\DAL.pdb
+E:\OOP\BookStore\BookStore\bin\Debug\DAL.dll.config
+E:\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.xml
+E:\OOP\BookStore\BookStore\bin\Debug\System.Data.SQLite.dll.config
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.FormLogin.resources
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.KullanıcıUserC.resources
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.KullanıcıArayüz.resources
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.MainPage.resources
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.exe
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.DergiUserC.resources
+E:\OOP\BookStore\BookStore\obj\Debug\BookStore.DergiUserC.resources
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.ImportUC.resources
+C:\Users\muhammet.erem\Desktop\BookStore\BookStore\obj\Debug\BookStore.GirisUC.resources

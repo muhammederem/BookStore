@@ -1,0 +1,91 @@
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\BLL.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\obj\Debug\BLL.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\obj\Debug\BLL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\obj\Debug\BLL.dll
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\obj\Debug\BLL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\BLL.dll
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\BLL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\obj\Debug\BLL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\BLL\obj\Debug\BLL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\obj\Debug\BLL.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\obj\Debug\BLL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\BLL.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\BLL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\BLL.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\BLL\obj\Debug\BLL.pdb
+E:\OOP\BookStore\BLL\bin\Debug\BLL.dll
+E:\OOP\BookStore\BLL\bin\Debug\BLL.pdb
+E:\OOP\BookStore\BLL\bin\Debug\DAL.dll
+E:\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.dll
+E:\OOP\BookStore\BLL\bin\Debug\DAL.pdb
+E:\OOP\BookStore\BLL\bin\Debug\DAL.dll.config
+E:\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.xml
+E:\OOP\BookStore\BLL\bin\Debug\System.Data.SQLite.dll.config
+E:\OOP\BookStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\OOP\BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\OOP\BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\OOP\BookStore\BLL\obj\Debug\BLL.dll
+E:\OOP\BookStore\BLL\obj\Debug\BLL.pdb

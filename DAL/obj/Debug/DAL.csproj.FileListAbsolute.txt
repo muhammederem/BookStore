@@ -1,0 +1,101 @@
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\obj\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\obj\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\obj\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\obj\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\obj\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\Object Oriented\BookStore\DAL\obj\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\obj\Debug\DAL.dll
+C:\Users\faruk\OneDrive\Masaüstü\BookStore\DAL\obj\Debug\DAL.pdb
+C:\Users\faruk\OneDrive\Masaüstü\Object Oriented\BookStore\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.dll
+C:\Users\muhammet.erem.STD.000\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.dll
+C:\Users\muhammet.erem\Desktop\OOP\BookStore\DAL\obj\Debug\DAL.pdb
+C:\Users\muhammet.erem\Desktop\BookStore\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
